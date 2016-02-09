@@ -1,3 +1,3 @@
 o.upto(9) do
-	puts "Grrrr!"
+	puts "Hello world, Grrrr!"
 end
